@@ -31,7 +31,7 @@ function Home() {
                         <MenuItem key="Medium" value="medium">Medium</MenuItem>
                         <MenuItem key="Hard" value="hard">Hard</MenuItem>
                     </TextField>
-                    <Button variant="container" color="primary">Start Quiz</Button>
+                    <Button variant="contained" color="primary">Start Quiz</Button>
                 </div>
             </div>
             <img src="/quiz.jpeg" className='banner' alt="quiz img" />
